@@ -1,6 +1,8 @@
 """
 Includes methods for training and predicting using naive Bayes.
 Designed for use with binary predictors, but can be easily generalized.
+
+September 26th, 2021
 @author Neil Gutkin
 """
 import numpy as np
